@@ -1,6 +1,6 @@
 # NetSuite SuiteScript 2.1 — Automation Library
 
-A collection of real-world SuiteScript 2.1 scripts for NetSuite ERP automation. Built and maintained by a **4X NetSuite Certified Consultant** with 15+ years of ERP experience.
+A collection of real-world SuiteScript 2.1 scripts for NetSuite ERP automation. Built and maintained by a **4X NetSuite Certified Consultant** with 18+ years of ERP experience.
 
 These scripts solve common business problems in Order-to-Cash (O2C), Procure-to-Pay (P2P), inventory management, and financial workflows.
 
